@@ -30,3 +30,8 @@ abstract class car{
 
 
 // abstruct not creating the objects
+
+
+//abstruct function banaya hai toh uski class ko bhi abstruct karna jaruri hai
+//2. abstruct class ka koi bhi children nahi bana sakte
+
